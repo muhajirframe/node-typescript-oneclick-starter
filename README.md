@@ -19,7 +19,7 @@ That's it.
 Open terminal
 
 ```bash
-    npm run dev
+npm run dev
 ```
 
 ```
