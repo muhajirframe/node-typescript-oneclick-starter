@@ -1,4 +1,4 @@
-# OS Alert
+# Node Typescript One Click Starter
 
 ## Prerequisites
 
